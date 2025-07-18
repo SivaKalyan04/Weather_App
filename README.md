@@ -16,9 +16,6 @@ It allows users to view current weather conditions, 24-hour temperature forecast
 - 🔹 **Multi-City Comparison (2–3 Cities)**  
   Compare key weather metrics side-by-side with dynamic chart visualization.
 
-- 🔹 **Date Selection**  
-  Choose the forecast date (today or up to 2 days ahead).
-
 ---
 
 ## 🛠️ Built With
